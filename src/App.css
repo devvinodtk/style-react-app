@@ -1,0 +1,27 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.header1 {
+  color: orange;
+}
+
+.para {
+  color: green;
+}
+
+.font-l {
+  font-size: 2rem;
+}
+
+.font-xl {
+  font-size: 3rem;
+}
+
+.error {
+  color: red;
+  font-weight: normal;
+}
